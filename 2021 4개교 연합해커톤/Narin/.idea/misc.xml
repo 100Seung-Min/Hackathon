@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/button_shape.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/ic_baseline_mic_blue_24.xml" value="0.165625" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/talk_text.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/talk_text_blue.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/talk_text_darkblue.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/talk_text_gray.xml" value="0.24102564102564103" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/drawable/talk_text_green.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/layout/activity_talk_narin.xml" value="0.2" />
+        <entry key="..\:/Users/user/Documents/GitHub/TIL/app/Narin/app/src/main/res/layout/item_talk_block.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
